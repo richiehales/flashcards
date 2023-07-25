@@ -1,26 +1,7 @@
-# To Run
+# Current Step
+## Step 6
+https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-front-end-development/tracks/fscj-22-redux/modules/wdcp-22-flashcards-05044ce5-0fce-4939-8dcc-77bb678edecf/projects/react-redux-flashcards
 
-Run `npm start` in the project root and the app will be available on port 3000.
-
-# State
-
-The app's state is totally normalized, with slices for topics, quizzes, and cards.
-
-# Routes
-
-- `/new-topic` – form to create a new topic
-- `/topics` – index of all topics
-- `/topics/:topicId` – page for an individual topic
-- `/new-quiz` – form to create a new quiz
-- `/quizzes` – index of all quizzes
-- `/quizzes/:quizId` – page for an individual quiz
-
-# To Test
-
-1. Create topics
-2. Create quizzes
-3. Visit the page for an individual quiz and flip the cards over
-
-# Questions
-
-Is this appropriately scoped? Does it have too many features? Too few?
+### See Redux Guide
+Adding New Post
+https://redux.js.org/tutorials/essentials/part-3-data-flow
